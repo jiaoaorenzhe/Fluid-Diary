@@ -19,11 +19,9 @@
 
 ## 下载安装
 
-直接下载仓库中的预构建 APK（debug 签名）：
+前往 [Releases](https://github.com/jiaoaorenzhe/Fluid-Diary/releases) 下载最新 APK（Beta，debug 签名）：
 
-```
-apps/fluid-diary/fluid-diary-v3.apk
-```
+[![Release](https://img.shields.io/badge/download-v1.2--beta-blue)](https://github.com/jiaoaorenzhe/Fluid-Diary/releases)
 
 安装时允许「来自此来源的应用」即可。数据存于应用私有目录，卸载即清除。
 
